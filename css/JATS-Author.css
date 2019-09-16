@@ -1,0 +1,2 @@
+@import "./authoring-extension.less";
+@import "${framework(JATSKit - NISO JATS / NLM BITS)}/lib/author-css/jats-authoring.css";
